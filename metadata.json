@@ -1,0 +1,6 @@
+{
+  "name": "Iron Pulse",
+  "description": "A futuristic, ultra-premium fitness and gym ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
